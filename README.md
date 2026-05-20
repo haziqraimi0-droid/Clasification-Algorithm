@@ -1,2 +1,2 @@
-# Classification-Algorithm
+# Clasification-Algorithm
 using phyton code
